@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ola Gabriel!</string>
+    <string name="message_classification">classification: %1$s!</string>
+</resources>
